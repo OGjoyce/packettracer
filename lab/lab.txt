@@ -1,0 +1,11 @@
+b.55a89f7fbbb4c87160449eeaf3b8e399
+a.
+	1-d6305ed8c70fab00349ceaee485a5ae8
+	2-Cambia
+
+b. la Encriptacion o el procesado de cada hash es diferente.
+
+
+
+
+
